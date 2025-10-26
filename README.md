@@ -1,6 +1,6 @@
 USING THE CLASSIC DATASET OF MNIST FOR HANDWRITTEN NUMBERS, I HAVE BUILT A DEEP NEURAL NETWORK WITH RELU (HIDDEN LAYERS) AND SOFTMAX (OUTPUT LAYER) AS ACTIVATION FUNCTIONS:
 
-1.  97.04 % of Test Accuracy and 97.94 % of Train Accuracy has been obtained on the model, which is in the range of healthy to mildly overfitting due to the 0.9% gap in Train and Test accuracy.
+1.  97.04 % of Test Accuracy and 97.94 % of Train Accuracy has been obtained on the model, which is in the range of healthy to mildly overfit due to the 0.9% gap in Train and Test accuracy.
 
 2.  This is a model built from scratch using Numpy and Tensorflow has been used only for the purpose of 'One-Hot Encoding'.
 
