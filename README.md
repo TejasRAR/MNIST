@@ -16,4 +16,5 @@ Yet to implement:
 Hopefully after the due implementations, i will get to observe a bump of 0.4 % - 0.8 % in the Test Accuracy, ~ 98 %.
 
 Goal: Test Accuracy equal to or GREATER THAN 98 %
+
 UPDATE: AS OF TODAY MY BEST ATTEMPT IS 97.57% Test Accuracy with L2 + HE
